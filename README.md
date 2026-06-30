@@ -13,7 +13,14 @@ Then just open Neovim — Lazy will auto-bootstrap and install all your plugins 
 
 
 
+
+
+
 **ADD relative lines if wanted:**
+
+For Lua Configurations:
+
+**(init.lua)**Open your config file **(typically located at ~/.config/nvim/init.lua)** and add the following lines:
 
 -- Enable relative line numbers
 
