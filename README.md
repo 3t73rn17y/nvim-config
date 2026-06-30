@@ -13,7 +13,8 @@ Then just open Neovim — Lazy will auto-bootstrap and install all your plugins 
 
 
 
-ADD relative lines if wanted:
+**ADD relative lines if wanted:**
+
 -- Enable relative line numbers
 vim.opt.relativenumber = true
 
